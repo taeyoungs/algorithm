@@ -194,7 +194,7 @@ public static int gcd(int m, int n) {
 }
 ```
 
-### 예제 5-2: Euclid Method - 단순한 버전
+### 예제 5-2: `Euclid Method` - 단순한 버전
 
 - `p` (단, `q = 0`)
 - `gcd(q, p%q)`
