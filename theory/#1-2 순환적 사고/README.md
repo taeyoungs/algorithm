@@ -121,7 +121,7 @@ public void printInBinary(int n) {
 
 ```java
 public static int sum(**int n**, int [] data) {
-  // n이 계속해서 줄어들고 있기 때문에 무한루프에 빠지지 않는다.
+	// n이 계속해서 줄어들고 있기 때문에 무한루프에 빠지지 않는다.
 	if (n <= 0) {
 		return 0;
 	} else {

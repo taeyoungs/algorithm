@@ -13,12 +13,12 @@ void func(...) {
 ```java
 public class Code01 {
   public static void main(String [] args) {
-	  func();
+    func();
   }
 
   public static void func() {
-	  System.out.println("Hello...");
-	  func();
+    System.out.println("Hello...");
+    func();
   }
 }
 ```
@@ -30,17 +30,17 @@ public class Code01 {
 ```java
 public class Code02 {
   public static void main(String [] args) {
-	  int n = 4;
-	  func(n);
+    int n = 4;
+    func(n);
   }
 
   public static void func(int k) {
-	if (k <= 0) {
-	  return;
-	} else {
-	  System.out.println("Hello...");
-	  func(k-1);
-	}
+    if (k <= 0) {
+      return;
+    } else {
+      System.out.println("Hello...");
+      func(k-1);
+    }
   }
 }
 ```
@@ -66,15 +66,15 @@ public class Code02 {
 ```java
 public class Code03 {
   public static void main(String [] args) {
-	  int result = func(4);
+    int result = func(4);
   }
 
   public static int func(int n) {
-	  if (n == 0) {
-	    return 0;
-	  } else {
-	    return n + func(n - 1);
-	  }
+    if (n == 0) {
+      return 0;
+    } else {
+      return n + func(n - 1);
+    }
   }
 }
 ```
@@ -90,10 +90,10 @@ public class Code03 {
 public static int func(int n) {
   // #2 n = 0이라면 합은 0이다.
   if (n == 0) {
-	  return 0;
+    return 0;
   } else {
-	  // #3 n이 0보다 크다면 0에서 n까지의 합은 0에서 n - 1까지의 합에 n을 더한 것이다.
-	  return n + func(n - 1);
+    // #3 n이 0보다 크다면 0에서 n까지의 합은 0에서 n - 1까지의 합에 n을 더한 것이다.
+    return n + func(n - 1);
   }
 }
 ```
@@ -121,9 +121,9 @@ public static int func(int n) {
 ```java
 public static int factorial(int n) {
   if (n == 0) {
-	  return 1;
+    return 1;
   } else {
-	  return n * factorial(n - 1);
+    return n * factorial(n - 1);
   }
 }
 ```
@@ -150,9 +150,9 @@ public static int factorial(int n) {
 ```java
 public static double power(double x, int n) {
   if (n == 0) {
-	  return 1;
+    return 1;
   } else {
-	  return x * power(x, n-1);
+    return x * power(x, n-1);
   }
 }
 ```
@@ -166,9 +166,9 @@ public static double power(double x, int n) {
 ```java
 public int fibonacci(int n) {
   if (n < 2) {
-	  return n;
+    return n;
   } else {
-	  return fibonacci(n-1) + fibonacci(n-2);
+    return fibonacci(n-1) + fibonacci(n-2);
   }
 }
 ```
@@ -180,16 +180,16 @@ public int fibonacci(int n) {
 ```java
 public static int gcd(int m, int n) {
   if (m < n) {
-	// swap m and n
-	  int tmp = m;
-	  m = n;
-	  n = tmp;
+  // swap m and n
+    int tmp = m;
+    m = n;
+    n = tmp;
   }
 
   if (m % n == 0) {
-	  return n;
+    return n;
   } else {
-	  return gcd(n, m%n);
+    return gcd(n, m%n);
   }
 }
 ```
@@ -202,9 +202,9 @@ public static int gcd(int m, int n) {
 ```java
 public static int gcd(int p, int q) {
   if (q == 0) {
-	  return p;
+    return p;
   } else {
-	  return gcd(q, p%q);
+    return gcd(q, p%q);
   }
 }
 ```
