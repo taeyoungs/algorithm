@@ -13,12 +13,12 @@ void func(...) {
 ```java
 public class Code01 {
   public static void main(String [] args) {
-	func();
+	  func();
   }
 
   public static void func() {
-	System.out.println("Hello...");
-	func();
+	  System.out.println("Hello...");
+	  func();
   }
 }
 ```
@@ -30,8 +30,8 @@ public class Code01 {
 ```java
 public class Code02 {
   public static void main(String [] args) {
-	int n = 4;
-	func(n);
+	  int n = 4;
+	  func(n);
   }
 
   public static void func(int k) {
