@@ -18,8 +18,6 @@
 
 ## 예제 1: 문자열의 길이 계산
 
----
-
 <img src="./1.png" alt="예제 1 문자열 길이 계산 개요">
 
 일반적으로 문자열의 길이를 계산한다고 할 때 어떻게 계산을 할까?
@@ -56,8 +54,6 @@ public static int length(String str) {
 
 ## 예제 2: 문자열의 프린트
 
----
-
 입력으로 들어온 하나의 문자열을 화면에 출력하는 메서드를 구현해보자.
 
 하나의 문자열을 화면에 출력하는 방식도 **예제 1**과 동일한 사고 방식으로 생각해보자.
@@ -78,8 +74,6 @@ public static void printChars(String str) {
 ```
 
 ## 예제 3: 문자열을 뒤집어 프린트
-
----
 
 이번엔 동일하게 문자열을 화면에 출력하는 대신 뒤집어서 출력하는 것이 목표이다.
 
@@ -105,8 +99,6 @@ public static void printCharsReverse(String str) {
 
 ## 예제 4: 2진수로 변환하여 출력
 
----
-
 음이 아닌 정수 `n`을 이진수로 변환하여 인쇄한다.
 
 - `n`을 `2`로 나눈 몫을 먼저 2진수로 변환하여 인쇄한 후
@@ -125,8 +117,6 @@ public void printInBinary(int n) {
 
 ## 예제 5: 배열의 합 구하기
 
----
-
 `data[0]`에서 `data[n-1]`까지의 합을 구하여 반환한다.
 
 생각을 조금 전환하면 `data[0]`부터 `data[n-1]`까지의 합은 `data[0]` 부터 `data[n-2]`까지의 합에 `data[n-1]`을 더하면 된다. 이를 계속해서 반복하는 구조로 코드를 작성하게 되면 다음과 같다.
@@ -143,8 +133,6 @@ public static int sum(**int n**, int [] data) {
 ```
 
 ## 예제 6: 데이터파일로 부터 n개의 정수 읽어오기
-
----
 
 `Scanner in`이 참조하는 파일로 부터 `n`개의 정수를 입력받아 배열 `data`의 `data[0]`, … , `data[n-1]`에 저장한다.
 
@@ -163,8 +151,6 @@ public void readFrom(int n, int [] data, Scanner in) {
 ```
 
 ## `Recursion` vs. `Iteration`
-
----
 
 - 모든 순환함수는 반복문(`iteration`)으로 변경 가능
 - 그 역도 성립한다. 즉, 모든 반복문은 `Recursion`으로 표현 가능하다.
