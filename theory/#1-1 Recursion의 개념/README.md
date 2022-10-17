@@ -1,5 +1,21 @@
 # 순환(Recursion)이란?
 
+**목차**
+
+- [순환(Recursion)이란?](#순환recursion이란)
+  - [무한 루프에 빠지지 않으려면?](#무한-루프에-빠지지-않으려면)
+    - [Base case:](#base-case)
+    - [Recursive case:](#recursive-case)
+    - [예제 1: 1 ~ n 까지의 합](#예제-1-1--n-까지의-합)
+  - [Recursion의 해석](#recursion의-해석)
+    - [순환 함수와 수학적 귀납법](#순환-함수와-수학적-귀납법)
+    - [예제 2: Factorial `n!`](#예제-2-factorial-n)
+    - [순환 함수와 수학적 귀납법](#순환-함수와-수학적-귀납법-1)
+    - [예제 3: `x^n`](#예제-3-xn)
+    - [예제 4: Fibonacci Number](#예제-4-fibonacci-number)
+    - [예제 5-1: 최대공약수 - Euclid Method](#예제-5-1-최대공약수---euclid-method)
+    - [예제 5-2: `Euclid Method` - 단순한 버전](#예제-5-2-euclid-method---단순한-버전)
+
 자기 자신을 다시 호출하는 함수(또는 메서드)
 
 ```java
