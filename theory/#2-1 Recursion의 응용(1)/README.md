@@ -13,13 +13,11 @@
 
 ## 미로 찾기
 
----
-
 - `N x N` 크기의 미로이며 입구는 `(0, 0)`, 출구는 `(N-1, N-1)`이라고 가정
 - 흰색은 지나갈 수 있는 공간
 - 파란색은 벽으로 지나갈 수 없는 공간
 
-<img src="./1.png" alt="미로" />
+<img src="./1.png" alt="미로" width="400" />
 
 ### Recurisve Thinking
 
@@ -102,8 +100,6 @@ boolean findPath(x, y)
 
 ## class Maze
 
----
-
 ```java
 public class Maze {
 	private static int N = 8;
@@ -129,8 +125,6 @@ private static final int PATH_COLOR = 3;    // green
 - `BLOCKED_COLOR`: `visited`이며 출구까지의 경로상에 있지 않음이 밝혀진 `cell`
 
 ## `findMazePath`
-
----
 
 ```java
 public static boolean **findMazePath**(int x, int y) {
