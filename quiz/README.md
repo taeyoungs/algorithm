@@ -10,12 +10,12 @@
 
 ### 탐욕법
 
-- 체육복
+- [체육복](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 
 ### 완전탐색
 
 - [최소직사각형](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
-- 모의고사
+- [모의고사](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 
 ### 나머지
 
