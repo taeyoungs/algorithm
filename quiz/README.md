@@ -6,6 +6,7 @@
 | --------------------- |
 | [탐욕법](#탐욕법)     |
 | [완전탐색](#완전탐색) |
+| [해시](#해시)         |
 | [나머지](#나머지)     |
 
 ### 탐욕법
@@ -16,6 +17,11 @@
 
 - [최소직사각형](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
 - [모의고사](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+
+### 해시
+
+- [폰켓몬](https://github.com/taeyoungs/algorithm/tree/main/quiz/%ED%8F%B0%EC%BC%93%EB%AA%AC)
+- [완주하지 못한 선수](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
 
 ### 나머지
 
@@ -30,6 +36,5 @@
 - [숫자 문자열과 영단어](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
 - [예산](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%98%88%EC%82%B0)
 - [없는 숫자 더하기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
-- [완주하지 못한 선수](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
+
 - [콜라 문제](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C)
-- [폰켓몬](https://github.com/taeyoungs/algorithm/tree/main/quiz/%ED%8F%B0%EC%BC%93%EB%AA%AC)
