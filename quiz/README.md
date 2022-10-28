@@ -17,6 +17,7 @@
 
 - [최소직사각형](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
 - [모의고사](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
+- 전력망을 둘로 나누기
 
 ### 해시
 
