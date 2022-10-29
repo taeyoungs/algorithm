@@ -17,7 +17,7 @@
 
 - [최소직사각형](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
 - [모의고사](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
-- 전력망을 둘로 나누기
+- [전력망을 둘로 나누기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0)
 
 ### 해시
 
@@ -37,5 +37,5 @@
 - [숫자 문자열과 영단어](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4)
 - [예산](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%98%88%EC%82%B0)
 - [없는 숫자 더하기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
-
 - [콜라 문제](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C)
+- 실패율
