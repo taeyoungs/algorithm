@@ -39,4 +39,6 @@
 - [없는 숫자 더하기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0)
 - [콜라 문제](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C)
 - [실패율](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
-- 다트 게임
+- [다트 게임](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)
+- JadenCase 문자열 만들기
+- 최댓값과 최솟값
