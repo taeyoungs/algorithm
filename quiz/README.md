@@ -40,5 +40,6 @@
 - [콜라 문제](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C)
 - [실패율](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%8B%A4%ED%8C%A8%EC%9C%A8)
 - [다트 게임](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84)
-- JadenCase 문자열 만들기
-- 최댓값과 최솟값
+- [JadenCase 문자열 만들기](https://github.com/taeyoungs/algorithm/tree/main/quiz/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [최댓값과 최솟값](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92)
+- [크레인 인형뽑기 게임](https://github.com/taeyoungs/algorithm/tree/main/quiz/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
