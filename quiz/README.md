@@ -7,6 +7,7 @@
 | [탐욕법](#탐욕법)     |
 | [완전탐색](#완전탐색) |
 | [해시](#해시)         |
+| [스택/큐](#스택큐)    |
 | [나머지](#나머지)     |
 
 ### 탐욕법
@@ -23,6 +24,10 @@
 
 - [폰켓몬](https://github.com/taeyoungs/algorithm/tree/main/quiz/%ED%8F%B0%EC%BC%93%EB%AA%AC)
 - [완주하지 못한 선수](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98)
+
+### 스택/큐
+
+- [올바른 괄호](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
 
 ### 나머지
 
@@ -43,3 +48,4 @@
 - [JadenCase 문자열 만들기](https://github.com/taeyoungs/algorithm/tree/main/quiz/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [최댓값과 최솟값](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92)
 - [크레인 인형뽑기 게임](https://github.com/taeyoungs/algorithm/tree/main/quiz/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
+- [다음 큰 숫자](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
