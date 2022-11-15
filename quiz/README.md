@@ -19,6 +19,7 @@
 - [최소직사각형](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
 - [모의고사](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 - [전력망을 둘로 나누기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0)
+- [카펫](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B9%B4%ED%8E%AB)
 
 ### 해시
 
@@ -28,6 +29,7 @@
 ### 스택/큐
 
 - [올바른 괄호](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
+- [짝 지어 제거하기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%A7%9D%20%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
 ### 나머지
 
@@ -49,3 +51,4 @@
 - [최댓값과 최솟값](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92)
 - [크레인 인형뽑기 게임](https://github.com/taeyoungs/algorithm/tree/main/quiz/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
 - [다음 큰 숫자](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
+- [숫자의 표현](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84)
