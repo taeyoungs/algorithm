@@ -8,6 +8,7 @@
 | [완전탐색](#완전탐색) |
 | [해시](#해시)         |
 | [스택/큐](#스택큐)    |
+| [정렬](#정렬)         |
 | [나머지](#나머지)     |
 
 ### 탐욕법
@@ -31,6 +32,10 @@
 - [올바른 괄호](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
 - [짝 지어 제거하기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%A7%9D%20%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 
+### 정렬
+
+- [H-Index](https://github.com/taeyoungs/algorithm/tree/main/quiz/H-Index)
+
 ### 나머지
 
 - [3진법 구하기](https://github.com/taeyoungs/algorithm/tree/main/quiz/3%EC%A7%84%EC%A0%91%20%EA%B5%AC%ED%95%98%EA%B8%B0)
@@ -52,3 +57,4 @@
 - [크레인 인형뽑기 게임](https://github.com/taeyoungs/algorithm/tree/main/quiz/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84)
 - [다음 큰 숫자](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
 - [숫자의 표현](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84)
+- [영어 끝말잇기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0)
