@@ -31,6 +31,8 @@
 
 - [올바른 괄호](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
 - [짝 지어 제거하기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%A7%9D%20%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
+- [[1차] 캐시](https://github.com/taeyoungs/algorithm/tree/main/quiz/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C)
+- [기능개발](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C)
 
 ### 정렬
 
