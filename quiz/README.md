@@ -2,14 +2,19 @@
 
 ## 카테고리
 
-| 분류                  |
-| --------------------- |
-| [탐욕법](#탐욕법)     |
-| [완전탐색](#완전탐색) |
-| [해시](#해시)         |
-| [스택/큐](#스택큐)    |
-| [정렬](#정렬)         |
-| [나머지](#나머지)     |
+| 분류                         |
+| ---------------------------- |
+| 깊이/너비 우선 탐색(DFS/BFS) |
+| [탐욕법](#탐욕법)            |
+| [완전탐색](#완전탐색)        |
+| [해시](#해시)                |
+| [스택/큐](#스택큐)           |
+| [정렬](#정렬)                |
+| [나머지](#나머지)            |
+
+### 깊이/너비 우선 탐색(DFS/BFS)
+
+- [게임 맵 최단거리](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC)
 
 ### 탐욕법
 
@@ -60,3 +65,4 @@
 - [다음 큰 숫자](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90)
 - [숫자의 표현](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84)
 - [영어 끝말잇기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0)
+- [롤케이크 자르기](https://github.com/taeyoungs/algorithm/tree/main/quiz/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0)

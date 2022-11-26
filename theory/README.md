@@ -28,3 +28,4 @@
 - [#12-2 해싱 (2)](<https://github.com/taeyoungs/algorithm/tree/main/theory/%2312-2%20%ED%95%B4%EC%8B%B1%20(2)>)
 - [#12-3 해싱 (3)](<https://github.com/taeyoungs/algorithm/tree/main/theory/%2312-3%20%ED%95%B4%EC%8B%B1%20(3)>)
 - [#13-1 그래프](https://github.com/taeyoungs/algorithm/tree/main/theory/%2313-1%20%EA%B7%B8%EB%9E%98%ED%94%84)
+- [#13-2 그래프에서의 BFS](https://github.com/taeyoungs/algorithm/tree/main/theory/%2313-2%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%97%90%EC%84%9C%EC%9D%98%20BFS)
